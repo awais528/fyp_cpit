@@ -1,9 +1,9 @@
 streamlit
 ultralytics
-streamlit-webrtc
-av
-opencv-python-headless
+opencv-python-headless==4.7.0.72
 numpy
 Pillow
 gtts
 google-generativeai
+streamlit-webrtc
+av
